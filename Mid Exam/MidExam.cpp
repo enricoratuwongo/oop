@@ -10,7 +10,7 @@ using namespace std;
 class student{
 	private:
 		int Att, Quis, Ass, Mid, Final, Grade;
-		char name[100];	
+		char name[50];	
 	public:
 		
 		Student(){
